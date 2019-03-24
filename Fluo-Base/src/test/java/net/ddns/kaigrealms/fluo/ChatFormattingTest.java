@@ -9,6 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
+ * Tests whether the chat formatting methods function as intended.
  * @author herbykit
  *
  */
